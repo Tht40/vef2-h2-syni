@@ -25,7 +25,7 @@ Til að testa ws tengingu:
 * Breyta stöðu á pöntun sem admin
   * `POST https://vef2-2022-h1-synilausn.herokuapp.com/orders/<ORDER UID>`
   * `{ "status": "PREPARE" }`
-* Sjá nýja stöðu koma inn á pöntunar WS
+* Sjá nýja stöðu koma inn á pöntunar WScx
 
 ## TODO
 
